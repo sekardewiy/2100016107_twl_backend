@@ -1,0 +1,23 @@
+{
+  "name": "prak-express",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sekardewiy/2100016107_twl_backend.git"
+  },
+  "author": "sekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sekardewiy/2100016107_twl_backend/issues"
+  },
+  "homepage": "https://github.com/sekardewiy/2100016107_twl_backend#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
